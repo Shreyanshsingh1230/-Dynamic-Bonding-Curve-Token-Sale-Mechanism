@@ -25,5 +25,6 @@ To create a decentralized, transparent token sale system where token price dynam
 - Support for multiple token sales with different bonding curves
 - Add governance and staking features
 
-## Contract details
+## Contract details 
+project done by Shreyansh Singh 
 0xf2cd7b71085F2ccB5436c1C67f350B4FE1f60E4b![alt text](image.png)
