@@ -15,7 +15,7 @@ To create a decentralized, transparent token sale system where token price dynam
 - Users can buy tokens by paying ETH, price calculated dynamically
 - Users can sell tokens back for ETH, price based on bonding curve
 - Refund of excess ETH when purchasing tokens
-- Owner starts with initial token supply 
+- Owner starts with initial token supply  
 
 ## Future Scope
 
