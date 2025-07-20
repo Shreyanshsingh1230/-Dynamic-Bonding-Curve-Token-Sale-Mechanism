@@ -6,7 +6,7 @@ This smart contract implements an ERC20  token sale with a dynamic bonding curve
 
 ## Project Vision
 
-To create a decentralized, transparent token sale system where token price dynamically adjusts based on supply and demand using bonding curves, enabling fairer token distribution. 
+To create a decentralized, transparent token sale system where token price dynamically adjusts based on supply and demand using bonding curves, enabling fairer token distribution.   
 
 ## Key Features
 
