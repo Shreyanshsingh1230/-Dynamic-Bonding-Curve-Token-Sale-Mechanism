@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This  smart contract  implements  an ERC20   token sale with a dynamic bonding curve pricing mechanism. The price per token increases linearly as more tokens are minted, providing a fair market-driven token price.   
+This smart contract  implements  an ERC20   token sale with a dynamic bonding curve pricing mechanism. The price per token increases linearly as more tokens are minted, providing a fair market-driven token price.   
 
 ## Project Vision
 
